@@ -11,7 +11,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8257E5&center=true&vCenter=true&width=600&lines=Educação+%2B+IA+%2B+Cloud+%3D+Transformação;Python+•+AWS+•+Azure+•+IA+Generativa;Ensinando+o+futuro,+uma+linha+de+código+por+vez" alt="Typing SVG" />
+
 
 </div>
 
