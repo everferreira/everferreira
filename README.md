@@ -19,37 +19,21 @@
 
 ## 🧑‍💻 Sobre Mim
 
-```python
-class EverFerreira:
-    def __init__(self):
-        self.name = "Ever Ferreira"
-        self.role = "AI Developer & Tech Educator"
-        self.location = "Brazil"
-        self.stack = {
-            "languages": ["Python", "PHP", "SQL", "Bash"],
-            "cloud": ["AWS", "Google Cloud"],
-            "containers": ["Docker", "WSL2"],
-            "linux": ["Ubuntu", "Debian", "Red Hat"],
-            "databases": ["MySQL", "MariaDB"],
-            "tools": ["Git", "Vim", "VS Code", "Postman"]
-        }
-        self.interests = [
-            "Infraestrutura como Código",
-            "Automação e DevOps",
-            "Inteligência Artificial",
-            "Open Source"
-        ]
+Olá! Sou **Ever Ferreira**, desenvolvedora e educadora em tecnologia, apaixonada por transformar café em código e conhecimento em impacto real.
 
-    def daily_routine(self):
-        while alive:
-            code()
-            learn()
-            teach()
-            coffee()
-            repeat()
+👩‍💻 **Atualmente** trabalho como **AI Developer**, construindo soluções que unem inteligência artificial, automação e infraestrutura moderna. Também atuo como instrutora, ajudando outras pessoas a mergulharem no universo da tecnologia com confiança.
 
-me = EverFerreira()
-```
+🐧 **Especialidades:**
+- **Linux & Infraestrutura** — Administração de sistemas, scripting Bash, Docker, Apache, Nginx, IaC
+- **Cloud & DevOps** — AWS, Google Cloud, automação de deploys e provisionamento
+- **Desenvolvimento** — Python, PHP, SQL, Shell Script, aplicações web completas
+- **Ferramentas** — Git, Vim, VS Code, Docker, MySQL/MariaDB
+
+🎯 **Interesses:** Infraestrutura como Código · Automação e DevOps · Inteligência Artificial · Open Source · Educação Tecnológica
+
+📍 **Localização:** Brazil
+
+💬 **Filosofia:** *"A melhor maneira de aprender é ensinando."* — Cada linha de código, cada aula, cada projeto é uma oportunidade de crescer e ajudar alguém a crescer também.
 
 ---
 
