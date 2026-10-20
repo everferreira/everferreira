@@ -7,10 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/everferreira?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/everferreira)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evermaria-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/evermaria)
 [![Gmail](https://img.shields.io/badge/Gmail-contatoeverferreira-EA4335?style=for-the-badge&logo=gmail)](mailto:contatoeverferreira@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2094577--4193-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5511945774193)
 [![DIO](https://img.shields.io/badge/DIO-everferreira-8257E5?style=for-the-badge)](https://www.dio.me/users/everferreira)
-
-📍 **Jundiaí, SP** · 💼 Remoto / Híbrido / Presencial
 
 ---
 
@@ -150,7 +147,6 @@ Sou especialista em **Educação Tecnológica** e **Soluções de Inteligência 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evermaria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evermaria)
 [![GitHub](https://img.shields.io/badge/Github-everferreira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/everferreira)
 [![Gmail](https://img.shields.io/badge/Gmail-contatoeverferreira-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoeverferreira@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2094577--4193-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5511945774193)
 [![DIO](https://img.shields.io/badge/DIO-everferreira-8257E5?style=for-the-badge)](https://www.dio.me/users/everferreira)
 
 </div>
