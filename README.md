@@ -11,8 +11,6 @@
 
 </div>
 
-[![Play Ever's Maze](https://img.shields.io/badge/🧩-Jogar%20Labirinto%20da%20Ever!-8257E5?style=for-the-badge)](https://everferreira.github.io/ever-adventure/)
-
 ---
 
 ## 🧑‍💻 Sobre Mim
