@@ -1,17 +1,20 @@
 <div align="center">
 
-# ✨ Olá, eu sou a Ever! ✨
+# ✨ Ever Maria Tobias Ferreira ✨
 
-### `Desenvolvedora · Instrutora · Entusiasta de Tecnologia`
+### `Especialista em Educação Tecnológica & Soluções em IA`
 
 [![GitHub followers](https://img.shields.io/github/followers/everferreira?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/everferreira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-everferreira-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/everferreira)
-[![Gmail](https://img.shields.io/badge/Gmail-everferreira-EA4335?style=for-the-badge&logo=gmail)](mailto:everferreira.dev@gmail.com)
-[![DIO](https://img.shields.io/badge/DIO-everferreira-8257E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSIjODI1N0U1Ii8+PC9zdmc+)](https://www.dio.me/users/everferreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evermaria-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/evermaria)
+[![Gmail](https://img.shields.io/badge/Gmail-contatoeverferreira-EA4335?style=for-the-badge&logo=gmail)](mailto:contatoeverferreira@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2094577--4193-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5511945774193)
+[![DIO](https://img.shields.io/badge/DIO-everferreira-8257E5?style=for-the-badge)](https://www.dio.me/users/everferreira)
+
+📍 **Jundiaí, SP** · 💼 Remoto / Híbrido / Presencial
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8257E5&center=true&vCenter=true&width=600&lines=Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Linux+%2B+Cloud+%2B+IA+%3D+%E2%9D%A4%EF%B8%8F;Sempre+aprendendo,+sempre+evoluindo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8257E5&center=true&vCenter=true&width=600&lines=Educação+%2B+IA+%2B+Cloud+%3D+Transformação;Python+•+AWS+•+Azure+•+IA+Generativa;Ensinando+o+futuro,+uma+linha+de+código+por+vez" alt="Typing SVG" />
 
 </div>
 
@@ -19,21 +22,33 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Olá! Sou **Ever Ferreira**, desenvolvedora e educadora em tecnologia, apaixonada por transformar café em código e conhecimento em impacto real.
+Sou especialista em **Educação Tecnológica** e **Soluções de Inteligência Artificial**, unindo desenvolvimento de software em Python, computação em nuvem (AWS/Azure) e metodologias ativas de aprendizagem. Minha missão é traduzir arquiteturas lógicas e algoritmos em experiências didáticas de alta retenção.
 
-👩‍💻 **Atualmente** trabalho como **AI Developer**, construindo soluções que unem inteligência artificial, automação e infraestrutura moderna. Também atuo como instrutora, ajudando outras pessoas a mergulharem no universo da tecnologia com confiança.
+👩‍🏫 **Atualmente** sou **Instrutora Sênior de Programação e Tecnologia** na **Ctrl+Play** — Escola de Programação e Robótica, onde atuo desde 2021 no ensino de:
+- Lógica de programação e desenvolvimento de jogos
+- Robótica educacional e circuitos eletrônicos (Arduino, Micro:bit)
+- Programação visual (Scratch, Construct 2/3, App Inventor) e textual (Python, C/C++)
+- Pensamento computacional do nível infantil ao adolescente
 
-🐧 **Especialidades:**
-- **Linux & Infraestrutura** — Administração de sistemas, scripting Bash, Docker, Apache, Nginx, IaC
-- **Cloud & DevOps** — AWS, Google Cloud, automação de deploys e provisionamento
-- **Desenvolvimento** — Python, PHP, SQL, Shell Script, aplicações web completas
-- **Ferramentas** — Git, Vim, VS Code, Docker, MySQL/MariaDB
+🤖 **Na Inteligência Artificial**, trabalho com:
+- **IA Generativa** (OpenAI API, Amazon Bedrock, Azure OpenAI)
+- **Cloud Computing** (AWS, Azure)
+- **APIs** (Flask, FastAPI)
+- **Agentes Autônomos** e automação inteligente
 
-🎯 **Interesses:** Infraestrutura como Código · Automação e DevOps · Inteligência Artificial · Open Source · Educação Tecnológica
+📚 **Formação:** Licenciatura em andamento no UNINTER (TCC em 2027) + ETEC
 
-📍 **Localização:** Brazil
+---
 
-💬 **Filosofia:** *"A melhor maneira de aprender é ensinando."* — Cada linha de código, cada aula, cada projeto é uma oportunidade de crescer e ajudar alguém a crescer também.
+## 💼 Experiência Profissional
+
+| Período | Empresa | Cargo |
+|---------|---------|-------|
+| Jul/2021 – Presente | **Ctrl+Play** | Instrutora Sênior de Programação e Tecnologia |
+| Mai/2026 – Set/2026 | **FONATRANS** | Assistente de Mobilização Local |
+| 2019 – 2020 | **FIS Brasil** | Analista de Processos e Inovação Operacional |
+| 2017 – 2019 | **FIS Brasil** | Analista de Ajustes Financeiros |
+| Nov/2024 | **SESC Jundiaí** | Palestrante e Facilitadora Técnica |
 
 ---
 
@@ -41,31 +56,53 @@ Olá! Sou **Ever Ferreira**, desenvolvedora e educadora em tecnologia, apaixonad
 
 <div align="center">
 
-### Linguagens & Scripts
+### 💻 Linguagens & Desenvolvimento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🐧 Linux & Infraestrutura
+### ☁️ Cloud & IA
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🐧 Infraestrutura & Ferramentas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🌐 Web & Ferramentas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 🎮 Educação & Robótica
+
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![Construct](https://img.shields.io/badge/Construct-FF6600?style=for-the-badge)
+![Micro:bit](https://img.shields.io/badge/Micro:bit-00ED00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSIjMDBFRDAwIi8+PC9zdmc+)
+
+</div>
+
+---
+
+## 🏅 Certificações
+
+<div align="center">
+
+| Certificação | Plataforma |
+|:------------:|:----------:|
+| **Google AI Professional Certificate** | Coursera / Credly |
+| **Fundamentos de IA Generativa e Claude 3** | DIO / Nexa |
+| **Python AI Backend Developer** | DIO |
+| **AWS Cloud Practitioner Certification** | DIO |
+| **Linux Fundamentals** | DIO |
 
 </div>
 
@@ -106,24 +143,15 @@ Olá! Sou **Ever Ferreira**, desenvolvedora e educadora em tecnologia, apaixonad
 
 ---
 
-## 🐍 Contribuição
-
-<div align="center">
-
-![Snake animation](https://github.com/everferreira/everferreira/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/everferreira)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/everferreira)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everferreira.dev@gmail.com)
-[![DIO](https://img.shields.io/badge/DIO-8257E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSIjODI1N0U1Ii8+PC9zdmc+)](https://www.dio.me/users/everferreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evermaria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evermaria)
+[![GitHub](https://img.shields.io/badge/Github-everferreira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/everferreira)
+[![Gmail](https://img.shields.io/badge/Gmail-contatoeverferreira-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoeverferreira@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2094577--4193-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5511945774193)
+[![DIO](https://img.shields.io/badge/DIO-everferreira-8257E5?style=for-the-badge)](https://www.dio.me/users/everferreira)
 
 </div>
 
