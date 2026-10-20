@@ -9,11 +9,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-contatoeverferreira-EA4335?style=for-the-badge&logo=gmail)](mailto:contatoeverferreira@gmail.com)
 [![DIO](https://img.shields.io/badge/DIO-everferreira-8257E5?style=for-the-badge)](https://www.dio.me/users/everferreira)
 
----
-
-
-
 </div>
+
+[![Play Ever's Adventure](https://img.shields.io/badge/🎮-Jogar%20Ever's%20Adventure!-8257E5?style=for-the-badge)](https://everferreira.github.io/ever-adventure/)
 
 ---
 
@@ -83,7 +81,7 @@ Sou especialista em **Educação Tecnológica** e **Soluções de Inteligência 
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Construct](https://img.shields.io/badge/Construct-FF6600?style=for-the-badge)
-![Micro:bit](https://img.shields.io/badge/Micro:bit-00ED00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSIjMDBFRDAwIi8+PC9zdmc+)
+![Micro:bit](https://img.shields.io/badge/Micro:bit-00ED00?style=for-the-badge)
 
 </div>
 
@@ -155,7 +153,7 @@ Sou especialista em **Educação Tecnológica** e **Soluções de Inteligência 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=everferreira&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=everferreira&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile visits" />
 
 **Obrigado pela visita!** 🐧✨
 
