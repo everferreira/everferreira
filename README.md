@@ -1,149 +1,74 @@
 <div align="center">
 
-# ✨ Ever Maria Tobias Ferreira ✨
+<img src="banner.svg" alt="Ever Ferreira" width="100%">
 
-### `Especialista em Educação Tecnológica & Soluções em IA`
+<br>
 
-[![GitHub followers](https://img.shields.io/github/followers/everferreira?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/everferreira)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evermaria-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/evermaria)
-[![Gmail](https://img.shields.io/badge/Gmail-contatoeverferreira-EA4335?style=for-the-badge&logo=gmail)](mailto:contatoeverferreira@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-everferreira-181717?style=for-the-badge&logo=github)](https://github.com/everferreira)
+[![Gmail](https://img.shields.io/badge/contatoeverferreira@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:contatoeverferreira@gmail.com)
 [![DIO](https://img.shields.io/badge/DIO-everferreira-8257E5?style=for-the-badge)](https://www.dio.me/users/everferreira)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
-
-Sou especialista em **Educação Tecnológica** e **Soluções de Inteligência Artificial**, unindo desenvolvimento de software em Python, computação em nuvem (AWS/Azure) e metodologias ativas de aprendizagem. Minha missão é traduzir arquiteturas lógicas e algoritmos em experiências didáticas de alta retenção.
-
-👩‍🏫 **Atualmente** sou **Instrutora Sênior de Programação e Tecnologia** na **Ctrl+Play** — Escola de Programação e Robótica, onde atuo desde 2021 no ensino de:
-- Lógica de programação e desenvolvimento de jogos
-- Robótica educacional e circuitos eletrônicos (Arduino, Micro:bit)
-- Programação visual (Scratch, Construct 2/3, App Inventor) e textual (Python, C/C++)
-- Pensamento computacional do nível infantil ao adolescente
-
-🤖 **Na Inteligência Artificial**, trabalho com:
-- **IA Generativa** (OpenAI API, Amazon Bedrock, Azure OpenAI)
-- **Cloud Computing** (AWS, Azure)
-- **APIs** (Flask, FastAPI)
-- **Agentes Autônomos** e automação inteligente
-
-📚 **Formação:** Licenciatura em andamento no UNINTER (TCC em 2027) + ETEC
-
----
-
-## 💼 Experiência Profissional
-
-| Período | Empresa | Cargo |
-|---------|---------|-------|
-| Jul/2021 – Presente | **Ctrl+Play** | Instrutora Sênior de Programação e Tecnologia |
-| Mai/2026 – Set/2026 | **FONATRANS** | Assistente de Mobilização Local |
-| 2019 – 2020 | **FIS Brasil** | Analista de Processos e Inovação Operacional |
-| 2017 – 2019 | **FIS Brasil** | Analista de Ajustes Financeiros |
-| Nov/2024 | **SESC Jundiaí** | Palestrante e Facilitadora Técnica |
-
----
-
-## 🛠️ Tech Stack
+## 🎮 Jogue Agora
 
 <div align="center">
 
-### 💻 Linguagens & Desenvolvimento
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud & IA
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🐧 Infraestrutura & Ferramentas
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### 🎮 Educação & Robótica
-
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Construct](https://img.shields.io/badge/Construct-FF6600?style=for-the-badge)
-![Micro:bit](https://img.shields.io/badge/Micro:bit-00ED00?style=for-the-badge)
+[![Jogar Labirinto](https://img.shields.io/badge/🧩_Jogar_Labirinto-8b5cf6?style=for-the-badge&logo=github)](https://everferreira.github.io/ever-adventure/)
+[![Board Kanban](https://img.shields.io/badge/📋_Board_Kanban-3b82f6?style=for-the-badge&logo=github)](https://everferreira.github.io/board/)
+[![Sudoku](https://img.shields.io/badge/🧩_Sudoku-22c55e?style=for-the-badge&logo=github)](https://everferreira.github.io/sudoku-dio/)
 
 </div>
 
 ---
 
-## 🏅 Certificações
+## 💬 Sobre Mim
+
+Sou desenvolvedora de IA e educadora em tecnologia. Traduzo arquiteturas lógicas e algoritmos em experiências de aprendizado que realmente fazem sentido — seja em sala de aula, num terminal ou numa API.
+
+**Atualmente:** Instrutora Sênior de Programação e Tecnologia na **Ctrl+Play** (desde 2021), onde ensino lógica de programação, robótica, Python, C/C++ e pensamento computacional para crianças a adolescentes.
+
+**Na IA:** trabalho com IA Generativa (OpenAI, Claude, AWS Bedrock, Azure OpenAI), cloud computing e agentes autônomos — tudo com Python, FastAPI e APIs.
+
+**Formação:** Licenciatura em andamento (UNINTER) · ETEC · Google AI · AWS Cloud · Certificações DIO
+
+---
+
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-| Certificação | Plataforma |
-|:------------:|:----------:|
-| **Google AI Professional Certificate** | Coursera / Credly |
-| **Fundamentos de IA Generativa e Claude 3** | DIO / Nexa |
-| **Python AI Backend Developer** | DIO |
-| **AWS Cloud Practitioner Certification** | DIO |
-| **Linux Fundamentals** | DIO |
+| | | |
+|:---:|:---:|:---:|
+| **📋 Board Kanban**<br>Gerenciador de tarefas Kanban com versão web interativa + Java CLI<br><br>[![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk)](https://github.com/everferreira/board)<br>[![Pages](https://img.shields.io/badge/Demo-Online-2ea44f?logo=github)](https://everferreira.github.io/board/)<br>[![CI](https://img.shields.io/github/actions/workflow/status/everferreira/board/ci.yml?label=CI&logo=github)](https://github.com/everferreira/board/actions) | **🧩 Sudoku**<br>Sudoku em 3 versões: Web, CLI (Java) e Swing — portfólio multiplataforma<br><br>[![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk)](https://github.com/everferreira/sudoku-dio)<br>[![Pages](https://img.shields.io/badge/Demo-Online-2ea44f?logo=github)](https://everferreira.github.io/sudoku-dio/)<br>[![CI](https://img.shields.io/github/actions/workflow/status/everferreira/sudoku-dio/build.yml?label=CI&logo=github)](https://github.com/everferreira/sudoku-dio/actions) | **🧩 Labirinto**<br>Jogo interativo no navegador — conheça a Ever jogando!<br><br>[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5)](https://github.com/everferreira/ever-adventure)<br>[![Pages](https://img.shields.io/badge/Jogar-8b5cf6?logo=github)](https://everferreira.github.io/ever-adventure/) |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub
 
 <div align="center">
 
-| ![Ever's GitHub stats](https://github-readme-stats.vercel.app/api?username=everferreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everferreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=everferreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everferreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=6) |
 |:---:|:---:|
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=everferreira&theme=tokyonight&hide_border=true&date_format=j%2Fn%5BY%5D)
-
 </div>
 
 ---
 
-## 📌 Repositórios em Destaque
+## 🏅 Selos
 
 <div align="center">
 
-| [![Formação Linux Fundamentals](https://github-readme-stats.vercel.app/api/pin/?username=everferreira&repo=Formacao_Linux_Fundamentals&theme=tokyonight&hide_border=true)](https://github.com/everferreira/Formacao_Linux_Fundamentals) | [![Recriando Página Instagram](https://github-readme-stats.vercel.app/api/pin/?username=everferreira&repo=Recriando_a_pagina_inicial_do_Instagram&theme=tokyonight&hide_border=true)](https://github.com/everferreira/Recriando_a_pagina_inicial_do_Instagram) |
-|:---:|:---:|
-| [![Netflix Interface Clone](https://github-readme-stats.vercel.app/api/pin/?username=everferreira&repo=Recriando-a-Interface-do-Netflix&theme=tokyonight&hide_border=true)](https://github.com/everferreira/Recriando-a-Interface-do-Netflix) | [![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=everferreira&repo=snake-the-game&theme=tokyonight&hide_border=true)](https://github.com/everferreira/snake-the-game) |
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=everferreira&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4)](https://github.com/everferreira)
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-evermaria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evermaria)
-[![GitHub](https://img.shields.io/badge/Github-everferreira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/everferreira)
-[![Gmail](https://img.shields.io/badge/Gmail-contatoeverferreira-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoeverferreira@gmail.com)
-[![DIO](https://img.shields.io/badge/DIO-everferreira-8257E5?style=for-the-badge)](https://www.dio.me/users/everferreira)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google)
+![Claude 3](https://img.shields.io/badge/Claude_3-412991?style=flat-square&logo=anthropic)
+![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws)
+![Python AI](https://img.shields.io/badge/Python_AI-3776AB?style=flat-square&logo=python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
 
 </div>
 
@@ -151,9 +76,9 @@ Sou especialista em **Educação Tecnológica** e **Soluções de Inteligência 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=everferreira&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile visits" />
+<img src="https://komarev.com/ghpvc/?username=everferreira&color=blueviolet&style=flat-square&label=visitantes" alt="Profile visits">
 
-**Obrigado pela visita!** 🐧✨
+**📬 Vamos conversar?** [LinkedIn](https://linkedin.com/in/evermaria) · [Email](mailto:contatoeverferreira@gmail.com) · [DIO](https://www.dio.me/users/everferreira)
 
 *"A melhor maneira de aprender é ensinando."*
 
