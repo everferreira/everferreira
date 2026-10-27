@@ -49,6 +49,18 @@ Sou desenvolvedora de IA e educadora em tecnologia. Traduzo arquiteturas lógica
 
 ---
 
+## 🤖 Trilha IA Generativa — Bootcamp CAIXA (DIO)
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| **📕 Ebook com IA**<br>IA Generativa no Setor Financeiro — guia prático completo<br><br>[![PDF](https://img.shields.io/badge/PDF-1.7MB-d9c27a?logo=adobe)](https://github.com/everferreira/ebook-ia-generativa-dio/blob/main/output/ebook-ia-generativa-dio.pdf)<br>[![Repo](https://img.shields.io/badge/Repo-0a1e3d?logo=github)](https://github.com/everferreira/ebook-ia-generativa-dio) | **🎙️ Podcast com IA**<br>Diálogo sobre IA no setor financeiro — roteiro, vozes e capa gerados por IA<br><br>[![MP3](https://img.shields.io/badge/Áudio-4min-28DA77?logo=audio)](https://github.com/everferreira/podcast-ia-generativa-dio/blob/main/output/podcast_editado.mp3)<br>[![Repo](https://img.shields.io/badge/Repo-0a1e3d?logo=github)](https://github.com/everferreira/podcast-ia-generativa-dio) | **🤖 Natty or Not**<br>Avatar hiper-realista + vídeo falando, 100% gerado por IA<br><br>[![Vídeo](https://img.shields.io/badge/Vídeo-33s-8b5cf6?logo=video)](https://github.com/everferreira/lab-natty-or-not/blob/main/output/avatar_natty.mp4)<br>[![Repo](https://img.shields.io/badge/Repo-0a1e3d?logo=github)](https://github.com/everferreira/lab-natty-or-not) |
+
+</div>
+
+---
+
 ## 📊 GitHub
 
 <div align="center">
