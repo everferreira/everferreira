@@ -13,14 +13,14 @@
 
 ---
 
-## 🎮 Jogue Agora
+## 🚀 Teste os Projetos Online
 
 <div align="center">
 
-|[![Jogar Labirinto](https://img.shields.io/badge/🧩_Jogar_Labirinto-8b5cf6?style=for-the-badge&logo=github)](https://everferreira.github.io/ever-adventure/)
-|[![Board Kanban](https://img.shields.io/badge/📋_Board_Kanban-3b82f6?style=for-the-badge&logo=github)](https://everferreira.github.io/board/)
-|[![Sudoku](https://img.shields.io/badge/🧩_Sudoku-22c55e?style=for-the-badge&logo=github)](https://everferreira.github.io/sudoku-dio/)
-|[![Tradutor Técnico](https://img.shields.io/badge/🌐_Tradutor_Técnico-58a6ff?style=for-the-badge&logo=github)](https://everferreira.github.io/technical-article-translator/)
+[![▶ Teste o Board Kanban](https://img.shields.io/badge/▶_Testar_Board_Kanban-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=3b82f6&color=white)](https://everferreira.github.io/board/)
+[![▶ Teste o Sudoku](https://img.shields.io/badge/▶_Testar_Sudoku-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=22c55e&color=white)](https://everferreira.github.io/sudoku-dio/)
+[![▶ Jogue o Labirinto](https://img.shields.io/badge/▶_Jogar_Labirinto-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=8b5cf6&color=white)](https://everferreira.github.io/ever-adventure/)
+[![▶ Tradutor Técnico Online](https://img.shields.io/badge/▶_Tradutor_Técnico-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=58a6ff&color=white)](https://everferreira.github.io/technical-article-translator/)
 
 </div>
 
@@ -44,8 +44,8 @@ Sou desenvolvedora de IA e educadora em tecnologia. Traduzo arquiteturas lógica
 
 | | | |
 |:---:|:---:|:---:|
-| **📋 Board Kanban**<br>Gerenciador de tarefas Kanban com versão web interativa + Java CLI<br><br>[![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk)](https://github.com/everferreira/board)<br>[![Pages](https://img.shields.io/badge/Demo-Online-2ea44f?logo=github)](https://everferreira.github.io/board/)<br>[![CI](https://img.shields.io/github/actions/workflow/status/everferreira/board/ci.yml?label=CI&logo=github)](https://github.com/everferreira/board/actions) | **🧩 Sudoku**<br>Sudoku em 3 versões: Web, CLI (Java) e Swing — portfólio multiplataforma<br><br>[![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk)](https://github.com/everferreira/sudoku-dio)<br>[![Pages](https://img.shields.io/badge/Demo-Online-2ea44f?logo=github)](https://everferreira.github.io/sudoku-dio/)<br>[![CI](https://img.shields.io/github/actions/workflow/status/everferreira/sudoku-dio/build.yml?label=CI&logo=github)](https://github.com/everferreira/sudoku-dio/actions) | **🧩 Labirinto**<br>Jogo interativo no navegador — conheça a Ever jogando!<br><br>[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5)](https://github.com/everferreira/ever-adventure)<br>[![Pages](https://img.shields.io/badge/Jogar-8b5cf6?logo=github)](https://everferreira.github.io/ever-adventure/) |
-| **🌐 Tradutor Técnico**<br>Tradutor de artigos técnicos — Python + C# + Web. Preserva código, termos e formatação<br><br>[![Python](https://img.shields.io/badge/Python-3572A5?logo=python)](https://github.com/everferreira/technical-article-translator)<br>[![C#](https://img.shields.io/badge/C%23-.NET-8136b3?logo=dotnet)](https://github.com/everferreira/technical-article-translator)<br>[![Pages](https://img.shields.io/badge/Demo-Online-2ea44f?logo=github)](https://everferreira.github.io/technical-article-translator/) | |
+| **📋 Board Kanban**<br>Gerenciador de tarefas Kanban<br><br>[![▶ Teste Online](https://img.shields.io/badge/▶_Teste_Online-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=3b82f6&color=white)](https://everferreira.github.io/board/)<br>[![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk)](https://github.com/everferreira/board) | **🧩 Sudoku**<br>Sudoku 3 versões: Web, CLI, Swing<br><br>[![▶ Teste Online](https://img.shields.io/badge/▶_Teste_Online-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=22c55e&color=white)](https://everferreira.github.io/sudoku-dio/)<br>[![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk)](https://github.com/everferreira/sudoku-dio) | **🧩 Labirinto**<br>Jogo interativo no navegador<br><br>[![▶ Jogue Online](https://img.shields.io/badge/▶_Jogue_Online-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=8b5cf6&color=white)](https://everferreira.github.io/ever-adventure/)<br>[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5)](https://github.com/everferreira/ever-adventure) |
+| **🌐 Tradutor Técnico**<br>Python + C# + Web. Preserva código e termos<br><br>[![▶ Teste Online](https://img.shields.io/badge/▶_Teste_Online-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=58a6ff&color=white)](https://everferreira.github.io/technical-article-translator/)<br>[![Python](https://img.shields.io/badge/Python-3572A5?logo=python)](https://github.com/everferreira/technical-article-translator) [![C#](https://img.shields.io/badge/C%23-.NET-8136b3?logo=dotnet)](https://github.com/everferreira/technical-article-translator) | | |
 
 </div>
 
